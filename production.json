@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "hs-code-search",
+      "exec_mode": "fork",
+      "script": "./node_modules/next/dist/bin/next",
+      "args": "start -p 3000"
+    }
+  ]
+}
